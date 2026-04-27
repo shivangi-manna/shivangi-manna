@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" height="250"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" height="250"/>
   <br/>
   <a href="https://github.com/shivangi-manna">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Shivangi+Manna;AI/ML+Engineer+🚀;Software+Developer+💻" />
@@ -25,11 +25,12 @@
 <br/>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **AI & Deep Learning Projects**
-- 🌱 I’m currently learning **Advanced Cloud Architecture & Full-Stack Development**
-- 👯 I’m looking to collaborate on **Open Source AI Projects**
+
+- 🔭 I'm currently working on **AI & Deep Learning Projects**
+- 🌱 I'm currently learning **Advanced Cloud Architecture & Full-Stack Development**
+- 👯 I'm looking to collaborate on **Open Source AI Projects**
 - 💬 Ask me about **Python, C++, Machine Learning, and Web Development**
-- 📫 How to reach me: **[shivangimanna.99@gmail.com](mailto:shivangimanna.99@gmail.com)**
+- 📫 How to reach me: **shivangimanna.99@gmail.com**
 - ⚡ Fun fact: **I can solve a Rubik's cube and write CNNs before my coffee gets cold!**
 
 <br/>
@@ -58,11 +59,13 @@
 <br/>
 
 ### 🏆 Top Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangi-manna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
 </p>
 
 ---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shivangi-manna&label=Profile%20Views&color=00d2ff&style=for-the-badge" alt="shivangi-manna" />
 </div>
